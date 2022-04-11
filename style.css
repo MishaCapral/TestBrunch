@@ -170,3 +170,10 @@ body.mouse .sub-menu__list>li:hover .sub-sub-menu__list{/*hover при наве�
   }
 }
 
+.img-vw{
+  display: block;
+  position: absolute;
+  top: 150px;
+  
+}
+
